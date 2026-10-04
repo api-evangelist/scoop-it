@@ -39,7 +39,6 @@ apis:
   - name: Scoop.it
     description: "Content Curation Service"
     humanURL: http://www.scoop.it/dev
-    baseURL: http://www.scoop.it/dev
     tags:
       - Open Data
     properties:
