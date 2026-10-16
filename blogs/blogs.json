@@ -1,0 +1,14 @@
+{
+  "repo": "scoop-it",
+  "feeds": [
+    {
+      "source": "https://blog.scoop.it/feed/",
+      "feed_url": "https://blog.scoop.it/feed/",
+      "title": "",
+      "saved": 2,
+      "method": "feed"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-10-10T13:15:00Z"
+}
